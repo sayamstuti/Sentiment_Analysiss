@@ -1,11 +1,11 @@
 # Sentiment_Analysiss
-# 🐦 Twitter Sentiment Analysis using Machine Learning
+#  Twitter Sentiment Analysis using Machine Learning
 
 A machine learning project that classifies tweets as **Positive** or **Negative** using Natural Language Processing (NLP). This project demonstrates the complete workflow from text preprocessing to model evaluation using the **Sentiment140** dataset.
 
 ---
 
-# 📑 Table of Contents
+#  Table of Contents
 
 * [Project Overview](#project-overview)
 * [Dataset](#dataset)
